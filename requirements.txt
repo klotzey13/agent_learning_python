@@ -1,0 +1,5 @@
+# Python project dependencies
+# Add your project dependencies here, one per line
+# Example:
+# requests==2.31.0
+# numpy==1.24.0
